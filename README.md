@@ -1,1 +1,0 @@
-# kakenagashi-ja.github.io
