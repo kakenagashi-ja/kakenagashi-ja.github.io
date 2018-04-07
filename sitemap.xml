@@ -3,69 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://kakenagashi-ja.github.io/about/</loc>
     <lastmod>2018-03-20T12:53:09+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/list/</loc>
+    <loc>https://kakenagashi-ja.github.io/list/</loc>
     <lastmod>2018-03-19T18:59:44+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/fukushima/shosuke-no-yado/</loc>
+    <loc>https://kakenagashi-ja.github.io/post/fukushima/shosuke-no-yado/</loc>
     <lastmod>2018-02-01T14:40:29+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://kakenagashi-ja.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/ph8/</loc>
-    <lastmod>2018-02-01T14:40:29+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://kakenagashi-ja.github.io/tags/ph8/</loc>
     <lastmod>2018-02-01T14:40:29+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://kakenagashi-ja.github.io/post/</loc>
     <lastmod>2018-02-01T14:40:29+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://kakenagashi-ja.github.io/tags/</loc>
     <lastmod>2018-02-01T14:40:29+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/%E6%9D%B1%E5%B1%B1%E6%B8%A9%E6%B3%89/</loc>
+    <loc>https://kakenagashi-ja.github.io/</loc>
     <lastmod>2018-02-01T14:40:29+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/%E6%B8%A9%E6%B3%89%E3%83%AB%E3%83%9D/</loc>
+    <loc>https://kakenagashi-ja.github.io/tags/%E6%9D%B1%E5%B1%B1%E6%B8%A9%E6%B3%89/</loc>
     <lastmod>2018-02-01T14:40:29+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/%E7%A1%AB%E9%85%B8%E5%A1%A9%E5%8C%96%E7%89%A9%E6%B3%89/</loc>
+    <loc>https://kakenagashi-ja.github.io/categories/%E6%B8%A9%E6%B3%89%E3%83%AB%E3%83%9D/</loc>
     <lastmod>2018-02-01T14:40:29+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/%E7%A6%8F%E5%B3%B6/</loc>
+    <loc>https://kakenagashi-ja.github.io/tags/%E7%A1%AB%E9%85%B8%E5%A1%A9%E5%8C%96%E7%89%A9%E6%B3%89/</loc>
+    <lastmod>2018-02-01T14:40:29+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kakenagashi-ja.github.io/tags/%E7%A6%8F%E5%B3%B6/</loc>
     <lastmod>2018-02-01T14:40:29+09:00</lastmod>
     <priority>0</priority>
   </url>
