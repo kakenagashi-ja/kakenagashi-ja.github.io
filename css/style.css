@@ -244,7 +244,7 @@ figcaption {
 }
 .article-entry h1,
 .widget h1 {
-  font-size: 2em;
+  font-size: 1.8em;
 }
 .article-entry h2,
 .widget h2 {
@@ -823,7 +823,7 @@ figcaption {
   font-size: 2em;
   color: #565a5f;
   text-decoration: none;
-  line-height: 1.3em;
+  line-height: 1.2em;
 }
 a.article-title:visited {
   color: #565a5f;
@@ -835,10 +835,21 @@ a.article-title:hover {
   .article-title {
     font-size: 1.6em;
   }
+  .article-entry p {
+    font-size: 1.1em;
+  }
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
   .article-title {
     font-size: 1.6em;
+  }
+  .article-entry p {
+    font-size: 1.1em;
+  }
+}
+@media screen and (min-width: 800px) {
+  .article-entry p {
+    font-size: 1.2em;
   }
 }
 .article-meta {
@@ -1416,6 +1427,9 @@ ol.toc {
 .archive-article-header {
   display: table-cell;
   vertical-align: top;
+}
+.archive-article-header {
+  margin-right: 1em;
 }
 /* @media screen and (max-width: 559px) {
   .archive-article .archive-article-content,
@@ -2236,4 +2250,17 @@ div.article-date {
   font-family: "Helvetica Neue";
   src: local("Helvetica Neue Regular");
   font-weight: 200;
+}
+#map_canvas {
+	position: relative;
+	padding: 0 0 56%;
+	height: 0;
+	overflow: hidden;
+}
+#map_canvas iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
 }
